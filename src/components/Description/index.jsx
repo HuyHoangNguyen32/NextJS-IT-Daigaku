@@ -1,5 +1,5 @@
-import { Logo } from "@/components/Logo";
-import styles from "@/components/css/Description.module.css"
+import { Logo } from "@/src/components/Logo";
+import styles from "@/src/components/Description/Description.module.css"
 
 export const Description = (props) => {
 

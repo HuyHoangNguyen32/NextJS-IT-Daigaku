@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "@/styles/Home.module.css";
+import styles from "@/src/components/Logo/Logo.module.css";
 
 export const Logo = () => {
   return (
