@@ -1,5 +1,5 @@
 import Link from "next/link";
-import styles from "@/components/css/Menu.module.css";
+import styles from "@/src/components/Menu/Menu.module.css";
 
 export function Menu() {
   return (
