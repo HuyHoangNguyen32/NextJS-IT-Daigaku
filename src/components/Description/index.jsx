@@ -5,7 +5,7 @@ export const Description = (props) => {
 
   const { page, boolean } = props
 
-  console.log(boolean)
+  // console.log(boolean)
 
   return (
     <div className={styles.description}>
